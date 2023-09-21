@@ -15,4 +15,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+#Assets
 assets
+
+#Reports
+report.html
+
